@@ -39,3 +39,28 @@ Site de Coletas ecológicas:
 
 💜 [Site] Página de cadastro para pontos de coleta (parte inferior)
 ![Pagina de cadastro para pontos de coleta (parte inferior)](https://github.com/RepublikExtreme/NLW-RocketSeat/blob/master/Ponto%20de%20coleta%2002.png)
+
+
+
+
+Site de Compras e vendas:
+=
+
+🚀 [Site] Página inicial
+![Pagina de cadastro para pontos de coleta (parte inferior)](https://github.com/carlosrtj/readme/blob/master/Homepageview.jpg)
+
+
+🚀 [Site] Página do produto escolhido
+![Página do produto escolhido](https://github.com/carlosrtj/readme/blob/master/product.png)
+
+
+🚀 [Site] Modal de vizualização do produto escolhido
+![Vizualização do produto escolhido](https://github.com/carlosrtj/readme/blob/master/productview.png)
+
+
+🚀 [Site] Página de cadastro de produto (parte superior)
+![Página de cadastro de produto (parte superior)](https://github.com/carlosrtj/readme/blob/master/createpage.png)
+
+
+🚀 [Site] Página de criação de contas
+![Página de criação de contas](https://github.com/carlosrtj/readme/blob/master/createaccount.png)
