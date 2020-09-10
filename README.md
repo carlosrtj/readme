@@ -7,14 +7,11 @@ Entenda que as tecnologias e linguagens usadas nesses programas têm foco em Jav
 Então vamos começar !
 O primeiro projeto consiste em 3 páginas consistindo em uma página de perfil, uma de escolha de aulas e uma para assistir aulas pelo iframe de videos do youtube.
 
-🚀 (Ilustração)
-![Pagina de ilustração](https://github.com/carlosrtj/readme/blob/master/smartmockups_keprp20o.jpg)
-
 💜 [Site] Página inicial
 ![Pagina inicial](https://github.com/carlosrtj/readme/blob/master/Home.png)
 
 💜 [Site] Página de videos
-![Pagina videos](https://github.com/carlosrtj/readme/blob/master/Portif%C3%B3lio.png)
+![Pagina de ilustração](https://github.com/carlosrtj/readme/blob/master/smartmockups_keprp20o.jpg)
 
 💜 [Site] Página do video escolhido
 ![Pagina do video escolhido](https://github.com/carlosrtj/readme/blob/master/Video.png)
