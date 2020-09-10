@@ -27,7 +27,7 @@ O primeiro projeto consiste em 3 páginas consistindo em uma página de perfil, 
 O segundo projeto consiste um site de cadastro de pontos de coletas trazendo uma ideia ecológica para a web.
 
 💜 [Site] Página inicial
-![Pagina de ilustração](https://github.com/carlosrtj/readme/blob/master/Home.png)
+![Pagina de ilustração](https://github.com/carlosrtj/readme/blob/master/HomeEco.png)
 
 
 💜 [Site] Página inicial (modal ativo)
