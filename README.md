@@ -27,19 +27,19 @@ O primeiro projeto consiste em 3 páginas consistindo em uma página de perfil, 
 O segundo projeto consiste um site de cadastro de pontos de coletas trazendo uma ideia ecológica para a web.
 
 💜 [Site] Página inicial
-![Pagina de ilustração](https://github.com/RepublikExtreme/NLW-RocketSeat/blob/master/Home.png)
+![Pagina de ilustração](https://github.com/carlosrtj/readme/blob/master/Home.png)
 
 
 💜 [Site] Página inicial (modal ativo)
-![Pagina inicial](https://github.com/RepublikExtreme/NLW-RocketSeat/blob/master/Busca.png)
+![Pagina inicial](https://github.com/carlosrtj/readme/blob/master/Busca.png)
 
 
 💜 [Site] Página de cadastro para pontos de coleta (parte superior)
-![Pagina de cadastro para pontos de coleta (parte superior)](https://github.com/RepublikExtreme/NLW-RocketSeat/blob/master/Ponto%20de%20coleta.png)
+![Pagina de cadastro para pontos de coleta (parte superior)](https://github.com/carlosrtj/readme/blob/master/Ponto%20de%20coleta.png)
 
 
 💜 [Site] Página de cadastro para pontos de coleta (parte inferior)
-![Pagina de cadastro para pontos de coleta (parte inferior)](https://github.com/RepublikExtreme/NLW-RocketSeat/blob/master/Ponto%20de%20coleta%2002.png)
+![Pagina de cadastro para pontos de coleta (parte inferior)](https://github.com/carlosrtj/readme/blob/master/Ponto%20de%20coleta%2002.png)
 
 
 🚀Site de Compras e vendas:
