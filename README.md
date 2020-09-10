@@ -17,5 +17,5 @@ O primeiro projeto consiste em 3 páginas consistindo em uma página de perfil, 
 ![Pagina videos](https://github.com/carlosrtj/readme/blob/master/Portif%C3%B3lio.png)
 
 💜 [Site] Página do video escolhido
-![Pagina do video escolhido](https://github.com/carlosrtj/readme/blob/master/smartmockups_keprp20o.jpg)
+![Pagina do video escolhido](https://github.com/carlosrtj/readme/blob/master/Video.png)
 
