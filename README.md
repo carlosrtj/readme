@@ -10,11 +10,11 @@ O primeiro projeto consiste em 3 páginas consistindo em uma página de perfil, 
 ![Pagina de ilustração](https://github.com/RepublikExtreme/videopage/blob/master/smartmockups_keprp20o.jpg)
 
 💜 [Site] Página inicia
-![Pagina inicial](https://github.com/RepublikExtreme/videopage/blob/master/Home.png)
+![Pagina inicial](https://github.com/carlosrtj/readme/blob/master/Home.png)
 
 💜 [Site] Página de videos
-![Pagina videos](https://github.com/RepublikExtreme/videopage/blob/master/Portif%C3%B3lio.png)
+![Pagina videos](https://github.com/carlosrtj/readme/blob/master/Portif%C3%B3lio.png)
 
 💜 [Site] Página do video escolhido
-![Pagina do video escolhido](https://github.com/RepublikExtreme/videopage/blob/master/Video.png)
+![Pagina do video escolhido](https://github.com/carlosrtj/readme/blob/master/smartmockups_keprp20o.jpg)
 
