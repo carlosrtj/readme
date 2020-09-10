@@ -4,7 +4,7 @@ Caso você seja um recrutador e esteja interessado em acessar meu portifólio, p
 Bom, mas para não lhe fazer perder viagem, irei lhe explicar mais sobre os projetos já desenvolvidos e mostrar algumas imagens do design neste README, que tal ?
 Entenda que as tecnologias e linguagens usadas nesses programas têm foco em JavaScript, SQL, HTML5 e CSS3, pois não postarei projetos em java e nem em Linguagem C por enquanto...
 
-Então vamos começar !
+Então vamos começar ! (nem todos os projetos estão incluidos neste resume até o presente momento).
 
 🚀Site de videos:
 =
