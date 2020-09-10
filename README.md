@@ -16,7 +16,7 @@ Site de videos:
 
 🚀 [Site] Página do video escolhido
 ![Pagina do video escolhido](https://github.com/carlosrtj/readme/blob/master/Video.png)
-
+===================================================================================================================================
 Site de Coletas ecológicas:
 💜 [Site] Página inicial
 ![Pagina de ilustração](https://github.com/RepublikExtreme/NLW-RocketSeat/blob/master/Home.png)
