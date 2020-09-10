@@ -7,12 +7,25 @@ Entenda que as tecnologias e linguagens usadas nesses programas têm foco em Jav
 Então vamos começar !
 O primeiro projeto consiste em 3 páginas consistindo em uma página de perfil, uma de escolha de aulas e uma para assistir aulas pelo iframe de videos do youtube.
 
-💜 [Site] Página inicial
+Site de videos:
+🚀 [Site] Página inicial
 ![Pagina inicial](https://github.com/carlosrtj/readme/blob/master/Home.png)
 
-💜 [Site] Página de videos
+🚀 [Site] Página de videos
 ![Pagina de ilustração](https://github.com/carlosrtj/readme/blob/master/smartmockups_keprp20o.jpg)
 
-💜 [Site] Página do video escolhido
+🚀 [Site] Página do video escolhido
 ![Pagina do video escolhido](https://github.com/carlosrtj/readme/blob/master/Video.png)
 
+Site de Coletas ecológicas:
+💜 [Site] Página inicial
+![Pagina de ilustração](https://github.com/RepublikExtreme/NLW-RocketSeat/blob/master/Home.png)
+
+💜 [Site] Página inicial (modal ativo)
+![Pagina inicial](https://github.com/RepublikExtreme/NLW-RocketSeat/blob/master/Busca.png)
+
+💜 [Site] Página de cadastro para pontos de coleta (parte superior)
+![Pagina de cadastro para pontos de coleta (parte superior)](https://github.com/RepublikExtreme/NLW-RocketSeat/blob/master/Ponto%20de%20coleta.png)
+
+💜 [Site] Página de cadastro para pontos de coleta (parte inferior)
+![Pagina de cadastro para pontos de coleta (parte inferior)](https://github.com/RepublikExtreme/NLW-RocketSeat/blob/master/Ponto%20de%20coleta%2002.png)
