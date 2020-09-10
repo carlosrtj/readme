@@ -11,7 +11,7 @@ Então vamos começar ! (nem todos os projetos estão incluidos neste resumo at�
 O primeiro projeto consiste em 3 páginas consistindo em uma página de perfil, uma de escolha de aulas e uma para assistir aulas pelo iframe de videos do youtube.
 
 💜 [Site] Página inicial
-![Pagina inicial](https://github.com/carlosrtj/readme/blob/master/Home.png)
+![Pagina inicial](https://github.com/carlosrtj/readme/blob/master/HomeP1.png)
 
 
 💜 [Site] Página de videos
