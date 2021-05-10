@@ -1,5 +1,5 @@
 Seja bem vindo(a) à minha conta no GitHub, aqui é o local onde eu guardo meu portifólio tanto para networking como para vizualizações externas !
-Caso você seja um recrutador e esteja interessado em acessar meu portifólio, por favor entre em contato via email (carlos.tomiosso@aluno.ifsp.edu.br) ou telefone (17)98830-6619 solicitando visibilidade nos projetos.
+Caso você seja um recrutador e esteja interessado em acessar meu portifólio, por favor entre em contato via email (carlos.tomiosso@aluno.ifsp.edu.br), celular (17) 99100-4311 ou whatsapp (17)98830-6619 solicitando visibilidade nos projetos.
 
 Entretanto para não lhe fazer perder viagem, irei lhe explicar mais sobre os projetos já desenvolvidos e mostrar algumas imagens do design neste README, que tal ?
 Entenda que as tecnologias e linguagens usadas nesses programas têm foco em JavaScript, SQL, HTML5 e CSS3, pois não postarei projetos em java e nem em Linguagem C por enquanto...
